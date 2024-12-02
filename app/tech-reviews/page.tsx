@@ -73,7 +73,7 @@ export default function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
-          Innovation is steadily developing, with new contraptions, programming, and stages arising day to day. Staying aware of the furthest down the line patterns can overpower. This blog gives inside and out tech surveys and bit by bit advisers for assist perusers with settling on informed choices and address tech-related difficulties proficiently.
+          Innovation is steadily developing, with new contraptions, programming, and stages arising day to day. Staying aware of the furthest down the line patterns can overpower. This blog gives inside and out tech surveys and bit by bit advisers for assist perusers with settling on informed choices and address tech related difficulties proficiently.
 
           </p>
           <div className="grid gap-4">

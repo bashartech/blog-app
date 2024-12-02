@@ -74,7 +74,7 @@ export default function TimelineDemo() {
             In todays fast-paced world, health and wellness have become
             paramount. Balancing physical fitness, mental health, and a healthy
             lifestyle can lead to a more fulfilled and energized life. This blog
-            explores actionable steps to improve your overall well-being while
+            explores actionable steps to improve your overall well being while
             addressing challenges posed by modern living.
           </p>
           <div className="grid gap-4">
@@ -173,7 +173,7 @@ export default function TimelineDemo() {
             commitment. By integrating physical fitness, mental health
             practices, and holistic approaches, you can cultivate a lifestyle
             that supports your goals and happiness. Start small, stay
-            consistent, and make wellness a priority—its an investment in
+            consistent, and make wellness a priority its an investment in
             yourself.
           </p>
         </div>

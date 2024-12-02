@@ -26,7 +26,7 @@ export function Footer() {
             </h2>
             <p className="text-gray-400 mt-5 text-lg leading-relaxed">
               Feel free to ask about blogs, trending topics, or specific
-              details you are curious about. We're here to help!
+              details you are curious about. We are here to help
             </p>
           </div>
           <div className="btn font-bold text-lg flex flex-col sm:flex-row gap-4 mt-5">

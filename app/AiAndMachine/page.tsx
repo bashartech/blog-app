@@ -96,7 +96,7 @@ export default function TimelineDemo() {
             transformed the way we access information, connect with others, and
             conduct business. The rise of broadband, 5G, and fiber optics
             ensures faster, more reliable connectivity, enabling innovations
-            like cloud computing, e-commerce, and remote work.
+            like cloud computing, ecommerce, and remote work.
           </p>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
           Correspondence Upheaval: Online entertainment stages, texting, and video conferencing apparatuses like Zoom and Microsoft Groups have reclassified how we associate.

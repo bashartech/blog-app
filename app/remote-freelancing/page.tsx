@@ -134,7 +134,7 @@ Correspondence Holes: Miscommunication might emerge without eye to eye conversat
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-4">
-          Outsourcing goes past remote work — it's tied in with working for yourself. Stages like Upwork, Fiverr, and Toptal have made it simpler than at any other time to track down gigs recorded as a hard copy, plan, programming, and the sky is the limit from there.
+          Outsourcing goes past remote work it's tied in with working for yourself. Stages like Upwork, Fiverr, and Toptal have made it simpler than at any other time to track down gigs recorded as a hard copy, plan, programming, and the sky is the limit from there.
 
 Key Benefits of Outsourcing
 Command Over Tasks: Pick work lined up with your abilities and interests.
@@ -164,7 +164,7 @@ Balance is Critical: Use procedures like time-obstructing to keep up with limits
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-4">
-          Remote work and outsourcing are presently not simply drifts; they are reshaping the worldwide labor force. By embracing adaptability, utilizing innovation, and consistently further developing abilities, experts can flourish in this powerful workplace. It's not just about working contrastingly — about working more brilliant and planning a lifelong accommodates your way of life.
+          Remote work and outsourcing are presently not simply drifts; they are reshaping the worldwide labor force. By embracing adaptability, utilizing innovation, and consistently further developing abilities, experts can flourish in this powerful workplace. It's not just about working contrastingly about working more brilliant and planning a lifelong accommodates your way of life.
           </p>
 
          
