@@ -2,7 +2,6 @@
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
 import { Timeline } from "@/components/ui/timeline";
-import { Meteors } from "@/components/ui/meteors";
 
 interface CommentData {
   id: number;
