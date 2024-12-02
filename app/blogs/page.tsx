@@ -52,7 +52,7 @@ export default function BlogPage() {
         {
             name : "AI And Machine Learning",
             para : "Explore advancements in AI technologies, applications in daily life, and tools like ChatGPT, MidJourney, and DALL-E.",
-            imgUrl : "/images/img16.jfif",
+            imgUrl : "/images/img16.png",
             blogUrl : "/AiAndMachine"
         },
     ])

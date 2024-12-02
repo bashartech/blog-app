@@ -149,7 +149,7 @@ Balance is Critical: Use procedures like time-obstructing to keep up with limits
 
           <div className="grid gap-4">
             <Image
-              src="/images/img24.jfif"
+              src="/images/img24.png"
               alt="startup template"
               width={500}
               height={500}

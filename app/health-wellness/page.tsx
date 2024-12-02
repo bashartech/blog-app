@@ -79,7 +79,7 @@ export default function TimelineDemo() {
           </p>
           <div className="grid gap-4">
             <Image
-              src="/images/img22.jfif"
+              src="/images/img22.png"
               alt="startup template"
               width={500}
               height={500}
@@ -111,7 +111,7 @@ export default function TimelineDemo() {
           </p>
           <div className="grid gap-4">
             <Image
-              src="/images/img23.jfif"
+              src="/images/img23.png"
               alt="startup template"
               width={500}
               height={500}
