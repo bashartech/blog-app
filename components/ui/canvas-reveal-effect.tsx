@@ -461,8 +461,7 @@ type Uniforms = Record<
   { value: number | number[] | number[][]; type: string }
 >;
 
-const Shader: React.FC<ShaderProps> = ({ source, uniforms, maxFps = 60 }) => {
-  const { size } = useThree();
+const Shader: React.FC<ShaderProps> = ({ source, uniforms }) => {
   const ref = useRef<THREE.Mesh | null>(null);
 
   useFrame(({ clock }) => {

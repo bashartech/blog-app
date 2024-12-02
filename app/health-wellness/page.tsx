@@ -94,7 +94,7 @@ export default function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
-            Good health isn't just about being free from illness; its about
+            Good health is not just about being free from illness; its about
             thriving in all aspects of life. Wellness encompasses physical
             fitness, mental clarity, and emotional balance. Neglecting any of
             these aspects can lead to burnout, stress, or chronic conditions.

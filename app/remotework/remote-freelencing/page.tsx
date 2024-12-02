@@ -126,10 +126,10 @@ export default function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-4">
-            AI is no longer a futuristic concept; it’s here and transforming
-            industries in real-time. From personal assistants like Siri and
-            Alexa to AI-driven diagnostics in healthcare, this technology is
-            enhancing human capabilities. AI's ability to analyze massive
+            AI is no longer a futuristic concept; its here and transforming
+            industries in real time. From personal assistants like Siri and
+            Alexa to AI driven diagnostics in healthcare, this technology is
+            enhancing human capabilities. AIs ability to analyze massive
             datasets and provide predictive insights has revolutionized fields
             like finance, marketing, and climate science. However, with great
             power comes responsibility. The ethical use of AI and its

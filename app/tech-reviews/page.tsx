@@ -135,9 +135,9 @@ Visual Guides: Use screen captures, outlines, or recordings.
 FAQs: Address normal client questions or issues.
 Well known Themes:
 
-"Instructions to Set Up a Savvy Home Framework"
-"Enhancing Your PC for Gaming"
-"Figuring out Distributed storage Arrangements"
+Instructions to Set Up a Savvy Home Framework
+Enhancing Your PC for Gaming
+Figuring out Distributed storage Arrangements
 
           </p>
 
@@ -151,7 +151,7 @@ Well known Themes:
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-4">
-          Tech audits and how-to guides engage clients to really outfit innovation. Whether you're making sense of an item's assets or directing somebody through an arrangement interaction, lucidity and detail are critical. The well informed crowd values precision and noteworthy bits of knowledge, making this a remunerating specialty for bloggers.
+          Tech audits and how to guides engage clients to really outfit innovation. Whether you are making sense of an items assets or directing somebody through an arrangement interaction, lucidity and detail are critical. The well informed crowd values precision and noteworthy bits of knowledge, making this a remunerating specialty for bloggers.
           </p>
 
          

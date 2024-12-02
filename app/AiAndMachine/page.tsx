@@ -73,7 +73,7 @@ export default function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
-          The tech upheaval has reshaped how we live, work, and collaborate with the world. From the introduction of the web to the appearance of man-made reasoning computer based intelligence and brilliant gadgets, innovation has turned into an indistinguishable piece of our day to day routines. This blog dives into key parts of this change, investigating what the computerized age has meant for different spaces and what's on the horizon for work and schooling.
+          The tech upheaval has reshaped how we live, work, and collaborate with the world. From the introduction of the web to the appearance of man-made reasoning computer based intelligence and brilliant gadgets, innovation has turned into an indistinguishable piece of our day to day routines. This blog dives into key parts of this change, investigating what the computerized age has meant for different spaces and what is on the horizon for work and schooling.
           </p>
           <div className="grid gap-4">
             <Image
@@ -101,7 +101,7 @@ export default function TimelineDemo() {
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
           Correspondence Upheaval: Online entertainment stages, texting, and video conferencing apparatuses like Zoom and Microsoft Groups have reclassified how we associate.
 Web based business Development: Organizations like Amazon and Shopify have made internet shopping a worldwide peculiarity, reshaping retail.
-Data Readily available: Web indexes like Google have transformed the web into the world's biggest library, open whenever.
+Data Readily available: Web indexes like Google have transformed the web into the worlds biggest library, open whenever.
           </p>
           <div className="grid gap-4">
             <Image

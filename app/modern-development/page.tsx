@@ -179,7 +179,7 @@ Low-Code/No Code Stages: Empowering quicker advancement cycles.
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-4">
-          Present day improvement is a thrilling and consistently advancing field. By embracing new structures, apparatuses, and approaches, designers can remain on top of things and make effective arrangements. Whether you're a carefully prepared coder or a novice, ceaseless learning is critical to flourishing in this imaginative scene.
+          Present day improvement is a thrilling and consistently advancing field. By embracing new structures, apparatuses, and approaches, designers can remain on top of things and make effective arrangements. Whether you are a carefully prepared coder or a novice, ceaseless learning is critical to flourishing in this imaginative scene.
           </p>
 
          
