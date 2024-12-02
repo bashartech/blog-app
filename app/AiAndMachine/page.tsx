@@ -75,15 +75,7 @@ export default function TimelineDemo() {
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
           The tech upheaval has reshaped how we live, work, and collaborate with the world. From the introduction of the web to the appearance of man-made reasoning computer based intelligence and brilliant gadgets, innovation has turned into an indistinguishable piece of our day to day routines. This blog dives into key parts of this change, investigating what the computerized age has meant for different spaces and what is on the horizon for work and schooling.
           </p>
-          <div className="grid gap-4">
-            <Image
-              src="/images/img14.webp"
-              alt="startup template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-44 md:h-44 lg:h-[24rem] w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-          </div>
+          
         </div>
       ),
     },
