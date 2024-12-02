@@ -309,7 +309,7 @@
 "use client";
 
 import { cn } from "@/lib/util";
-import {  useFrame, useThree } from "@react-three/fiber";
+import {  useFrame } from "@react-three/fiber";
 import React, { useMemo, useRef } from "react";
 import * as THREE from "three";
 
